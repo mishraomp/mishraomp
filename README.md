@@ -1,7 +1,7 @@
 
 [![3D Contributions](https://raw.githubusercontent.com/mishraomp/mishraomp/output-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mishraomp&column=-1&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-readme-streak-stats-eight.vercel.app/?user=mishraomp&theme=tokyonight&hide_border=true&mode=weekly&exclude_days=Sat%2CSun)
 
 Github | LinkedIn | Twitter
 :-: | :-: | :-: | :-: | :-:
