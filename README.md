@@ -33,8 +33,8 @@ I architect large-scale government systems where failure isn't an option. My rol
 
 **Languages:** `Go` `TypeScript` `Java` `Python` `Bash`  
 **Container & Orchestration:** `Kubernetes` `OpenShift` `Docker` `Helm`  
-**Cloud & IaC:** `AWS` `Azure` `Terraform`
-**CI/CD:** `GitHub Actions` `ArgoCD`
+**Cloud & IaC:** `AWS` `Azure` `Terraform`  
+**CI/CD:** `GitHub Actions` `ArgoCD`  
 **Data:** `PostgreSQL` `MongoDB` `Redis` `Elasticsearch` `Nats`  
 **Observability:** `Prometheus` `Grafana` `ELK Stack` `OpenTelemetry`
 
