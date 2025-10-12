@@ -8,14 +8,14 @@ I architect large-scale government systems where failure isn't an option. My rol
 
 **Platform Engineering & Cloud Native**
 - Design multi-cloud architectures across AWS, Azure, and on-premise OpenShift clusters
-- Build platform abstractions that let 100+ developers ship code without worrying about infrastructure
+- Build platform abstractions that let developers ship code without worrying about infrastructure
 
 **Microservices & Distributed Systems**
 - Architect event-driven systems using Event Streaming.
 - Implement distributed tracing and observability stacks (OpenTelemetry, Prometheus, Grafana)
 
 **Data Architecture**
-- Design data platforms handling millions of daily transactions with sub-second latency
+- Design data platforms with high concurrency
 - Implement CQRS and event sourcing patterns for audit-critical systems
 - Build real-time search capabilities with Elasticsearch clusters
 
@@ -27,7 +27,7 @@ I architect large-scale government systems where failure isn't an option. My rol
 - Design PR based workflows and deployments using GHA
 - Build IaC frameworks with Terraform (AWS/Azure) and Helm charts(OpenShift)
 - Implement progressive delivery strategies (feature flags)
-- Create self-service developer platforms reducing deployment time by 80%
+- Create self-service developer platforms reducing deployment time
 
 ### 🛠️ Technical Stack
 
