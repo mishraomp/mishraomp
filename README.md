@@ -1,6 +1,6 @@
 [![3D Contributions](https://raw.githubusercontent.com/mishraomp/mishraomp/output-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
 
-## Lead Enterprise Architect | Government Digital Transformation
+## Lead Solution Architect | Government Digital Transformation
 
 I architect large-scale government systems where failure isn't an option. My role sits at the intersection of strategic planning and hands-on technical execution - because you can't design resilient systems without understanding how they're actually built.
 
